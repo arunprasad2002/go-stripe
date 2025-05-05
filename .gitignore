@@ -40,3 +40,6 @@ Thumbs.db
 
 # Dependency management
 node_modules/
+
+tmp/
+
